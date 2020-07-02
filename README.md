@@ -1,4 +1,4 @@
 # nopatch
-# Привет!Это мой ПЕРВЫЙ(!) репозиторий на GitHub.
-# Прошу не судить строго.
-# Удачи!
+sudo apt update
+sudo apt upgrade
+
